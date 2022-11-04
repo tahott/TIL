@@ -5,4 +5,4 @@
 - [server authentication](server_authentication.md)
 - [type branding](type_branding.md)
 - [typeorm relation](typeorm_relation_type.md)
-- `(To be published) unique key and soft delete`
+- [unique key and soft delete](unique_key_and_soft_delete.md)
