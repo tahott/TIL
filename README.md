@@ -10,3 +10,4 @@
 - [memory leak in node.js](memory_leak_in_nodejs.md)
 - [localhost based on node version](localhost_based_on_node_version.md)
 - [deep copy in javascript](deep_copy_in_javascript.md)
+- [trampoline pattern](trampoline_pattern.md)
