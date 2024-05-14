@@ -12,4 +12,4 @@
 - [deep copy in javascript](deep_copy_in_javascript.md)
 - [trampoline pattern](trampoline_pattern.md)
 - [functional programming](functional_programming.md)
-- [type predicates](type_predicates.md)
+- [type inference](type_inference.md)
