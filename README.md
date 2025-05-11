@@ -14,3 +14,4 @@
 - [functional programming](functional_programming.md)
 - [type inference](type_inference.md)
 - [merge multi repo into a mono repo by simple](simple_merge_multi_repo_into_mono_repo.md)
+- [api first design(ft.typespec)](api_first_design_ft_typespec.md)
